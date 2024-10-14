@@ -1,1 +1,3 @@
-# Calcula-Consumo
+# Sistema de Gestão de Consumo Calórico
+
+-----
